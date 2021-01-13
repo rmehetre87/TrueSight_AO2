@@ -1,0 +1,12 @@
+06/11/2020 07:17:18 devpinoyLogger Truesight_LoginPage Started!!!
+06/11/2020 07:18:35 devpinoyLogger Truesight_LoginPage End!!!
+06/11/2020 07:18:36 devpinoyLogger Truesight_configurationPage Started !!!
+06/11/2020 07:19:07 devpinoyLogger Alert generated for server: bss-sl2-dev-inf-jen01 Alert Key: NUK_FileSystem.Capacity
+06/11/2020 07:19:12 devpinoyLogger Truesight_configurationPage End !!!
+06/11/2020 07:19:12 devpinoyLogger Truesight_MonitoringPage Started !!!
+06/11/2020 07:20:11 devpinoyLogger Alert data captured for server: bss-sl2-dev-inf-jen01 Alert Key: NUK_FileSystem.Capacity
+06/11/2020 07:20:28 devpinoyLogger Truesight_MonitoringPage End !!!
+06/11/2020 07:20:28 devpinoyLogger Truesight_configurationPage Started !!!
+06/11/2020 07:21:05 devpinoyLogger Alert generated for server: bss-sl2-e2e-rbm-bfp02 Alert Key: NUK_FileSystem.Capacity
+06/11/2020 07:21:10 devpinoyLogger Truesight_configurationPage End !!!
+06/11/2020 07:21:10 devpinoyLogger Truesight_MonitoringPage Started !!!
